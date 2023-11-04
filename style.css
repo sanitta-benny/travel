@@ -1,0 +1,325 @@
+.home,.home1, .travel1,.style{
+    background-image: url("https://images.unsplash.com/photo-1596779845699-dc72d45a3a5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1933&q=80");
+    background-image: url("https://www.contiki.com/media/ehjpvviw/au-nz-hero-lp-summer_sale-min.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=1920&height=620&quality=80");
+    width: 100%;
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+.can{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+
+}
+
+
+ .navbar-brand{
+    font-size: 2rem;
+    color: red;
+    font-family: 'Pacifico', cursive;
+    
+
+}
+body{
+  overflow-x: hidden;
+}
+
+.nav-link:hover{
+    color: red;
+  
+    transition: 0,3s;
+}
+.nav-item{
+    color: rgb(7,7,78);
+    font-weight: 500;
+    padding-left: 35px;
+}
+.plan11{
+    background-image: url("https://www.contiki.com/media/hjsnv3ll/berlin-cathedral-berlin-germany-3.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=1100&height=600&quality=80");
+width:480px;
+    height: 280px;
+    background-size: cover;
+    position: absolute;
+    background-repeat: no-repeat;
+}
+.plan1{
+    width: 100%;
+}
+.plan12, .plan13, .plan14, .plan15, .plan16, .plan17, .plan18{
+    background-image: url("https://www.contiki.com/media/ya1bbqea/european-discovery-winter-trip-5.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=1100&height=600&quality=80");
+    width:480px;
+        height: 280px;
+        background-size: cover;
+        position: absolute;
+        background-repeat: no-repeat; 
+}
+.plan13{
+    background-image: url("https://www.contiki.com/media/ikyl5hp4/0078eurw2017-3.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=1100&height=600&quality=80");
+    
+}
+.plan14{
+    background-image: url("https://www.contiki.com/media/zrrnug53/amsterdam-for-christmas-trip-4.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=1100&height=600&quality=80");
+}
+.plan15{
+    background-image: url("https://www.contiki.com/media/tsffpbpi/egypt-and-the-nile-winter-trip-2.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=1100&height=600&quality=80");
+}
+.plan16{
+    background-image: url("https://www.contiki.com/media/irobf2e0/2240amer2016-1.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=1100&height=600&quality=80");
+}
+.plan17{
+    background-image: url("https://www.contiki.com/media/000bwn2b/italian-espresso-winter-trip-3.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=1100&height=600&quality=80");
+}
+.plan18{
+    background-image: url("https://www.contiki.com/media/gu4nythg/vietnam-highlights-trip-3.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=1100&height=600&quality=80");
+}
+ .tour{
+    width: 295px;
+    height: 280px;
+margin: 1%;
+     background-size: cover; 
+    
+     position: relative
+    } 
+    /* adventure */
+     .adv{
+        background-image: url("https://www.contiki.com/media/jowk44sf/group-sitting-on-mountain-over-trees-in-greece-3171eurs2022.jpg?&quality=30");
+        background-size: cover;
+        background-repeat: no-repeat;
+    } 
+    .adv1, .experiance{
+        background-image: url("https://www.contiki.com/media/hyrb133f/giraffe-crossing-road-on-a-safarri-in-south-africa.jpg?&quality=30");
+        background-size: cover;
+        background-repeat: no-repeat;
+
+    } 
+   /*  .asia{
+        background-image: url("https://www.contiki.com/media/edymtmoi/group-exploring-bankok-on-bikes-thailand-0340asia2017.jpg?center=0.4705862685768735%2C0.5426065162907269&format=webp&mode=crop&width=1152&height=720&quality=30");
+        width: 100%;
+        height: 30rem;
+        background-repeat: no-repeat;
+        background-size: cover;
+        filter: brightness(65%); 
+        background-position: center;
+    } */
+
+    /* capture */
+  .col1{
+    margin-top: 2%;
+    }
+    .img1{
+      filter: brightness(90%);
+     
+    }
+    .icon{
+        background-color: white;
+        cursor: pointer;
+    }
+    .icon:hover{
+        background-color: pink;
+    }
+     /* offcanvase */
+  .off1{
+    background-image: url('https://images.pexels.com/photos/3278215/pexels-photo-3278215.jpeg?cs=srgb&dl=pexels-oleksandr-p-3278215.jpg&fm=jpg');
+  height: 300px;
+  background-size: cover;
+ 
+  }
+ 
+  .off2{
+ font-size:50px; 
+    padding-top: 10px;
+   
+  }
+  .emm{
+    background-color: black;
+  }
+  /* new */
+  .home1{
+    background-image: url("https://www.contiki.com/media/mamjyngo/2840eurs2022.jpg?center=0.36598851736722415%2C0.48871852256899395&format=webp&mode=crop&width=1920&height=450&quality=80");
+    filter: brightness(90%);
+    background-position: center;
+    height: 50vh;
+  }
+  .experience{
+    background-image: url("https://www.contiki.com/media/ujdfrskk/female-enjoying-korean-street-food.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=900&height=600&quality=80");
+    border-radius: 25px;
+  background-size: cover;
+  }
+  /* adventure */
+    .adv12{
+    background-image: url("https://images.unsplash.com/photo-1596779845699-dc72d45a3a5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1933&q=80");
+  width: 100%;
+  filter: brightness(70%);
+     height: 640px;
+    }  
+   @media(min-width:768){
+    .advpp{
+    display: none;
+    }
+  } 
+ .adv3{
+    background-color: rgba(225, 222, 222, 0.732);
+
+  }
+  .adv4{
+    margin-top: 2%;
+
+    display: inline-block;
+
+  }
+  .adv5{
+    display: inline-block;
+    height: 400px;
+    width: 450px;
+ 
+    -top: -150px;
+    
+  }
+  .adv7{
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 30px;
+  }
+  .adv8{
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 30px;
+  }
+  .adv11{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 40px; 
+  }
+.adv10{
+display: inline-block;
+margin-left: 40px;
+ margin-top: 30px; 
+}
+.class1{
+border-radius: 5%;
+}
+.adv-btn, .adv-btn1{
+color:#ef3a50;
+padding: 10px;
+border: solid 1px #ef3a50;
+background-color: rgba(225, 222, 222, 0.732);
+}
+.adv-btn:hover{
+background-color:#ef3a50;
+color: white;
+}
+.adv13{
+  background-image: url("https://w0.peakpx.com/wallpaper/494/250/HD-wallpaper-earth-landscape-cloud-hill-mountain-sky.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+.adv-btn1{
+  background-color:#ef3a50;
+  color: white;
+}
+.adv14{
+  background-image: url("https://w0.peakpx.com/wallpaper/249/739/HD-wallpaper-dark-harmony-nature-sky-harmony-dark.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+.adv121, .adv122{
+  background-image: url("https://storage.georgia.travel/images/970x620/martvili-canyon.webp");
+  position: relative;
+  height: 280px;
+  width:330px ;
+  filter: brightness(70%);
+}
+/* new */
+.btn00:hover{
+  background-color: #cf0;
+}
+.travel1{
+  background-image: url("https://www.contiki.com/media/tsrnfqbb/young-traveler-dancing-in-africa.jpg?center=0.4444444444444444%2C0.5012531328320802&format=webp&mode=crop&width=768&height=480&quality=80");
+  background-size: cover;
+ 
+  background-position: center;
+}
+/* other package you might like */
+.like, .like1, .like3, .like2{
+  background-image: url("https://www.contiki.com/media/zorbpekg/european-discovery-1.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=333&height=535&quality=80");
+}
+.like1{
+  background-image: url("https://www.contiki.com/media/4tcbosxa/european-whirl-1.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=333&height=535&quality=80");
+}
+.like2{
+  background-image: url("https://www.contiki.com/media/2nwd23vd/athens-to-santorini-standard-2.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=333&height=535&quality=80");
+}
+/* offcanvas */
+.off21 ,.off22, .off23{
+  background-image: url("https://www.contiki.com/media/fzwkoyen/young-group-of-travelers-exploring-greek-harbour.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=1600&height=900&quality=80");
+  background-size: cover;
+}
+.off22{
+  background-image: url("https://www.contiki.com/media/4objkemd/group-of-skiers-snowboards-on-lift-austria-0018eurs2023.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=1600&height=900&quality=80");
+}
+.off23{
+  background-image: url("https://www.contiki.com/media/rkcp4omk/group-of-young-female-travelers-taking-selfie-vancouver-canada.jpg?center=0.5%2C0.5&format=webp&mode=crop&width=1600&height=900&quality=80");
+}
+.off2{
+  font-size: 2.8rem;
+     line-height: 1.1;
+     color:rgb(1, 1, 29);
+     font-weight: bold;
+     font-size: 2.8rem;
+     text-align: center;
+    font-family: 'Stint Ultra Condensed', serif;
+    font-size: 80px;
+}
+/* travel style */
+.style{
+  background-image: url("https://www.contiki.com/media/zyslcxs4/0212eurs2020.jpeg?center=0.5902255639097744%2C0.4699248120300752&format=webp&mode=crop&width=768&height=480&quality=80");
+  background-position: center;
+  filter: brightness(80%);
+}
+.style1:hover{
+  opacity: 0.7;
+}
+/* footer */
+.foot{
+  color: black;
+  text-decoration: none;
+  font-size: 13px;
+}
+.foot:hover{
+  text-decoration: underline;
+}
+
+.icons{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex ;
+  justify-content: center; /* horizontal allignment */
+  align-items: center; /* vertical allignment of content inside the div */
+  background-color: gray;
+  margin: 1%;
+
+}
+.icon_set{
+
+  display: flex ;
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  align-items: flex-end;
+  justify-content: center;
+ 
+
+}
+.icons i{
+  font-size: 20px;
+  color: black;
+}
+
+
+ 
